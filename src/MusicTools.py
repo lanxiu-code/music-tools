@@ -1,4 +1,5 @@
 import requests
+import re
 class MusicTools:
     def __init__(self):
         self.songsList = []
